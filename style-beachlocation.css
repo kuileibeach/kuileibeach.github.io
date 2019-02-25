@@ -36,10 +36,8 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 img {
-  max-height: 150px;
-  max-width: 200px;
-  width: 120px;
-  height: 120px;  
+  display: block;
+  margin: 0 auto;
 }
 .responsive-image {
   max-height: 150px;
